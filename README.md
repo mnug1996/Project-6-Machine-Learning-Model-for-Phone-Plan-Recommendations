@@ -1,4 +1,4 @@
-# Project-6-Machine-Learning-Model-for-Phone-Plan-Recommendations
+# Project 6 Machine Learning Model for Phone Plan Recommendations
 
 ## Introduction to the project:
 
